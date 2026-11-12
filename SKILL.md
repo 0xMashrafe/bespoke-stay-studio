@@ -100,6 +100,7 @@ Prioritize: responsive design, meaningful interactions, refined animation, excel
 Use real browser inspection. Test at multiple screen sizes. Review screenshots, identify weaknesses, correct visual inconsistencies. The first working implementation is not automatically finished.
 
 → Full guidance: [references/visual-quality.md](./references/visual-quality.md)
+→ General implementation loop: [references/implementation-workflow.md](./references/implementation-workflow.md)
 
 ### Phase 7: Delivery & Handover
 Produce clean documentation, setup instructions, content verification and a working local preview. Recognize the difference between a demo, a client-ready site and a production site.

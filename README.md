@@ -121,6 +121,7 @@ bespoke-stay-studio/
 │   ├── hospitality-experience.md
 │   ├── frontend-craft.md
 │   ├── visual-quality.md
+│   ├── implementation-workflow.md
 │   └── project-delivery.md
 ├── templates/            # Reusable project templates
 │   ├── project-brief.md
